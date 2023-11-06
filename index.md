@@ -14,3 +14,5 @@ Je propose des formations sur différents sujets:
 </ol>
 
 Les formations peuvent être effectuées en présentiel ou à distance (par exemple via Teams).
+<br>
+Les références utilisées pour la construction des cours sont listées ici : <a href="resources.html"> Références </a>.
