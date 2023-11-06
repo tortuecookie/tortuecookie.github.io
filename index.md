@@ -1,5 +1,7 @@
 ---
 layout: default
+title: "Formations finance et assurance"
+description: "Cours en présentiel ou à distance"
 ---
 
 Bienvenue sur mon site ! 

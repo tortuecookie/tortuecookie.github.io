@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Crash course sur la méthode xgboost"
+title: "Machine / deep learning"
 permalink: /machine_deep_learning
 ---
 

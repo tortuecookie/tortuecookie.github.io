@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Crash course sur la méthode xgboost"
+title: "Code"
 permalink: /code
 ---
 

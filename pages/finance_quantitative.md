@@ -1,12 +1,11 @@
 ---
 layout: default
-title: "Crash course sur la méthode xgboost"
+title: "Finance quantitative"
 permalink: /finance_quantitative
 ---
 
-# Cours de finance quantitative
+# Liste des cours
 
-Les cours de finance quantitative proposés sont les suivants :
 <ul type="1">
   <li> ... </li>
   <li> ... </li>
