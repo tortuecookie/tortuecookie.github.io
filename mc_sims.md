@@ -13,4 +13,4 @@ import pandas as pd
 data = pd.read_csv(data_file)
 ```
 
-Le polycopié du cours est disponible ici : 
+Le polycopié du cours est disponible ici : <a href="xgboost.html"> Simulations Monte Carlo dans Python </a>
