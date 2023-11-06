@@ -3,14 +3,14 @@ layout: default
 ---
 
 Bienvenue sur mon site ! 
-<br> <br>
+<br>
 Je propose des formations sur différents sujets:
 <ol type="1">
-  <li>Actuariat</li>
-  <li>Finance quantitative</li>
-  <li>Machine / deep learning</li>
-  <li>Python</li>
+  <li> Actuariat </li>
+  <li> Finance quantitative </li>
+  <li> Machine / deep learning </li>
+  <li> Code (Python et R principalement) </li>
 </ol>
-<br> <br>
+<br>
 
-Première formation en préparation : <a href="xgboost.html"> Méthode Gradient Boosting Accéléré </a>
+Les formations peuvent être effectuées en présentiel ou à distance (par exemple via Teams).
