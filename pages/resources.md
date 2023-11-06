@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Références utiles"
+description: "Sources utilisées pour la préparation des cours
 permalink: /references
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Cours d'actuariat"
+description: ""
 permalink: /actuariat
 ---
 
