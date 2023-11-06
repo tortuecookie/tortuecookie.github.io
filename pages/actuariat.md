@@ -1,16 +1,22 @@
 ---
 layout: default
-title: "Simulations Monte Carlo dans Python"
-permalink: /mc_sims
+title: "Cours d'actuariat"
+permalink: /actuariat
 ---
 
-# Simulations Monte Carlo dans Python
+# Cours d'actuariat
 
-Ce cours contient une introduction à la mise en place de simulations Monte Carlo dans Python. Ci-dessous un exemple :
+Les cours d'actuariat proposés sont les suivants :
+<ol type="1">
+  <li> <a href = "https://tortuecookie.github.io/docs/actuariat/Capital Allocation - Tasche.pdf"> XGBoost </a> </li>
+  <li> ... </li>
+  <li> ... </li>
+  <li> ... </li>
+</ol>
+
+Exemple de script Python :
 
 ```python
 import pandas as pd
 data = pd.read_csv(data_file)
 ```
-
-Le polycopié du cours est disponible ici : <a href="https://tortuecookie.github.io/xgboost"> Simulations Monte Carlo dans Python </a>

@@ -7,7 +7,7 @@ Bienvenue sur mon site !
 <br>
 Je propose des formations sur différents sujets:
 <ol type="1">
-  <li> Actuariat </li>
+  <li> <a href = "actuariat.html"> Références </a> </li>
   <li> Finance quantitative </li>
   <li> Machine / deep learning </li>
   <li> Code (Python et R principalement) </li>
@@ -15,4 +15,5 @@ Je propose des formations sur différents sujets:
 
 Les formations peuvent être effectuées en présentiel ou à distance (par exemple via Teams).
 <br>
-Les références utilisées pour la construction des cours sont listées ici : <a href="resources.html"> Références </a>.
+<br>
+Les références utilisées pour la construction des cours sont listées ici : <a href = "references.html"> Références </a>.
