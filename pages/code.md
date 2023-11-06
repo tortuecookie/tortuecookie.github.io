@@ -1,9 +1,15 @@
 ---
 layout: default
 title: "Crash course sur la méthode xgboost"
-permalink: /xgboost
+permalink: /code
 ---
 
-Cours sur la méthode xgboost
+# Cours de code
 
-[...]
+Les cours de code proposés sont les suivants :
+<ul type="1">
+  <li> ... </li>
+  <li> ... </li>
+  <li> ... </li>
+  <li> ... </li>
+</ul>

@@ -8,7 +8,7 @@ permalink: /finance_quantitative
 
 Les cours de finance quantitative proposés sont les suivants :
 <ul type="1">
-  <li> ... </a> </li>
+  <li> ... </li>
   <li> ... </li>
   <li> ... </li>
   <li> ... </li>
