@@ -10,7 +10,7 @@ permalink: /references
 ## Actuariat
 
 <ul type="1">
-  <li> <a href = "https://tortuecookie.github.io/docs/actuariat/Capital Allocation - Tasche.pdf"> Capital Allocation to Business Units and Sub-Portfolios </a> </li>
+  <li> <a href = "https://tortuecookie.github.io/docs/actuariat/Capital Allocation - Tasche.pdf"> Capital Allocation to Business Units and Sub-Portfolios, Dirk Tasche, 2008  </a> </li>
   <li> ... </li>
 </ul>
 

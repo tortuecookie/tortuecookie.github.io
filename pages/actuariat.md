@@ -13,9 +13,4 @@ permalink: /actuariat
   <li> ... </li>
 </ul>
 
-Exemple de script Python :
 
-```python
-import pandas as pd
-data = pd.read_csv(data_file)
-```
