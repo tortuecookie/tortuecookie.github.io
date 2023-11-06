@@ -1,5 +1,3 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
-title: Formations en actuariat et finance quantitative [...]
+theme: minima
+title: Formations en actuariat et finance quantitative
 description: Formations en libre accès
