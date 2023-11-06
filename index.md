@@ -4,6 +4,7 @@ layout: default
 
 Bienvenue sur mon site ! 
 <br>
+<br>
 Je propose des formations sur différents sujets:
 <ol type="1">
   <li> Actuariat </li>
@@ -11,6 +12,5 @@ Je propose des formations sur différents sujets:
   <li> Machine / deep learning </li>
   <li> Code (Python et R principalement) </li>
 </ol>
-<br>
 
 Les formations peuvent être effectuées en présentiel ou à distance (par exemple via Teams).
