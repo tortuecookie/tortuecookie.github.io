@@ -1,9 +1,15 @@
 ---
 layout: default
 title: "Crash course sur la méthode xgboost"
-permalink: /xgboost
+permalink: /finance_quantitative
 ---
 
-Cours sur la méthode xgboost
+# Cours de finance quantitative
 
-[...]
+Les cours de finance quantitative proposés sont les suivants :
+<ul type="1">
+  <li> ... </a> </li>
+  <li> ... </li>
+  <li> ... </li>
+  <li> ... </li>
+</ul>
