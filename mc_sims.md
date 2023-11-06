@@ -1,23 +1,16 @@
 ---
 layout: default
-title: "Crash course sur les simulations Monte Carlo dans Python"
+title: "Simulations Monte Carlo dans Python"
 permalink: /mc_sims
 ---
 
-# Cours sur les simulations Monte Carlo dans Python
+# Simulations Monte Carlo dans Python
 
-A code snippet in Python:
+Ce cours contient une introduction à la mise en place de simulations Monte Carlo dans Python. Ci-dessous un exemple :
 
 ```python
 import pandas as pd
 data = pd.read_csv(data_file)
 ```
-Here is a simple flow chart:
 
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
+Le polycopié du cours est disponible ici : 
