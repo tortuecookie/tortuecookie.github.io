@@ -12,3 +12,12 @@ A code snippet in Python:
 import pandas as pd
 data = pd.read_csv(data_file)
 ```
+Here is a simple flow chart:
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
