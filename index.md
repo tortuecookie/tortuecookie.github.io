@@ -13,4 +13,4 @@ Je propose des formations sur différents sujets:
 </ol>
 <br> <br>
 
-Première formation en préparation : <a href="pages\xgboost.html"> Méthode Gradient Boosting Accéléré </a>
+Première formation en préparation : <a href="xgboost.html"> Méthode Gradient Boosting Accéléré </a>
