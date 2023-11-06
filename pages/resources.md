@@ -1,31 +1,36 @@
 ---
 layout: default
 title: "Références utiles"
-description: "Sources utilisées pour la préparation des cours
+description: "Sources utilisées pour la préparation des cours"
 permalink: /references
 ---
 
 # Références
-
 
 ## Actuariat
 
 <ul type="1">
   <li> ... </li>
   <li> ... </li>
-  <li> ... </li>
-  <li> ... </li>
 </ul>
 
 ## Finance quantitative
 
-...
+<ul type="1">
+  <li> ... </li>
+  <li> ... </li>
+</ul>
 
 ## Machine / deep learning
 
-1
+<ul type="1">
+  <li> ... </li>
+  <li> ... </li>
+</ul>
 
 ## Code
 
-2
-
+<ul type="1">
+  <li> ... </li>
+  <li> ... </li>
+</ul>
