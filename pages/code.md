@@ -4,9 +4,8 @@ title: "Code"
 permalink: /code
 ---
 
-# Cours de code
+# Liste des formations
 
-Les cours de code proposés sont les suivants :
 <ul type="1">
   <li> ... </li>
   <li> ... </li>
@@ -14,7 +13,7 @@ Les cours de code proposés sont les suivants :
   <li> ... </li>
 </ul>
 
-Dans les cours de code, des extraits de code réutilisables seront présentés de la façon suivante (exemple avec un code Python):
+Dans les formations de code, les extraits de code réutilisables sont présentés de la façon suivante (exemple avec un code Python):
 
 ```python
 import pandas as pd

@@ -4,7 +4,7 @@ title: "Actuariat"
 permalink: /actuariat
 ---
 
-# Liste des cours
+# Liste des formations
 
 <ul type="1">
   <li> Allocation de capital </li>
