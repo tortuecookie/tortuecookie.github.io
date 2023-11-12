@@ -7,8 +7,5 @@ permalink: /machine_deep_learning
 # Liste des formations
 
 <ul type="1">
-  <li> ... </li>
-  <li> ... </li>
-  <li> ... </li>
-  <li> ... </li>
+  <li> [en construction] </li>
 </ul>
