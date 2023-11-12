@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Actuariat"
-permalink: /actuariat
+permalink: /articles
 ---
 
 # Liste des articles
