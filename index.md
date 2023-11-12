@@ -16,3 +16,6 @@ Je propose des formations sur les sujets suivants :
 </ol>
 
 Les formations peuvent être effectuées en présentiel ou à distance (par exemple via Teams).
+<br>
+<br>
+Je publie régulièrement du contenu sur d'autres plateformes (par ex., Medium, applications web, etc.) sur les sujets ci-dessus. Vous pouvez trouver ici une liste de mes publications : <a href = "articles.html">Articles</a>.
