@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Formations en finance, assurance et data"
+title: "Formations data / assurance / finance"
 description: "En présentiel ou à distance"
 ---
 
