@@ -4,13 +4,13 @@ title: "Code"
 permalink: /code
 ---
 
-# Liste des formations
+# Liste des supports
 
 <ul type="1">
   <li> [en construction] </li>
 </ul>
 
-Dans les formations de code, les extraits de code réutilisables sont présentés de la façon suivante (exemple avec un code Python):
+Dans les supports, les extraits de code réutilisables sont présentés de la façon suivante (exemple avec un code Python):
 
 ```python
 import pandas as pd
