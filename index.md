@@ -16,4 +16,4 @@ Je propose des notes et articles sur les sujets suivants :
 </ol>
 
 Je publie régulièrement du contenu sur d'autres plateformes (par ex., Medium, applications web, etc.) sur les sujets ci-dessus. 
-Vous pouvez trouver ici une liste de mes publications : <a href = "articles.html">Articles</a>.
+Vous pouvez trouver <a href = "articles.html">ici</a> une liste de mes articles.
