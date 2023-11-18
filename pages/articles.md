@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Actuariat"
+title: "Publications"
 permalink: /articles
 ---
 
 # Liste des articles
 
 <ul type="1">
-  <li> Loi de Pareto de type I, estimation et simulation en Python : [...] </li>
-  <li> Bases de l'analyse de sentiment en utilisant Python et Hugging Face : [...] </li>
-  <li> [...] </li>
+  <li> (Octobre 2023) Loi de Pareto de type I, estimation et simulation en Python : <a href = "https://medium.com/@tortuecookie/the-pareto-distribution-in-python-509a05873234"> ici </a> </li>
+  <li> (Octobre 2023) Bases de l'analyse de sentiment en utilisant Python et Hugging Face : [...] </li>
+  <li> (Novembre 2023) Répresentation de données géospatiales en utilisant Python (geopandas, folium) : </li>
 </ul>
